@@ -3,3 +3,4 @@
 #  how to configure app 
 
 # Open service folder -> WeatherApi and replace the required API key to run the app
+![Screenshot 2023-03-10 at 13 45 13](https://user-images.githubusercontent.com/28098368/224308071-76e2983c-138d-4f7e-9c0b-7d86cedfcf38.png)
